@@ -4,6 +4,18 @@
 
 [1]: https://pypi.org/project/google-cloud-bigquery/#history
 
+### [2.4.1](https://www.github.com/googleapis/python-bigquery/compare/v2.4.0...v2.4.1) (2020-11-23)
+
+
+### Bug Fixes
+
+* avoid floating point for timestamp in `insert_rows` ([#393](https://www.github.com/googleapis/python-bigquery/issues/393)) ([a1949ae](https://www.github.com/googleapis/python-bigquery/commit/a1949ae20ec4f9c771b0cffbcd70792dd6a30dbf))
+
+
+### Documentation
+
+* **samples:** add more clustering code snippets ([#330](https://www.github.com/googleapis/python-bigquery/issues/330)) ([809e4a2](https://www.github.com/googleapis/python-bigquery/commit/809e4a27b94ba30c10e0c9a7e89576a9de9fda2b)), closes [#329](https://www.github.com/googleapis/python-bigquery/issues/329)
+
 ## [2.4.0](https://www.github.com/googleapis/python-bigquery/compare/v2.3.1...v2.4.0) (2020-11-16)
 
 
